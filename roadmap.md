@@ -13,12 +13,13 @@
 **Target**: Q2 2025
 
 - **Whisper API Integration**: Automated audio-to-text transcription for meetings
+  - *Security consideration*: Self-hosted Whisper model for maximum privacy and data control
 - **Direct Calendar API**: Eliminate manual ICS import, push events directly to Google Calendar
 - **Automated Processing Pipeline**: Notes → LLM → Calendar without manual intervention
 - **Batch Processing**: Process multiple note sources simultaneously
 
 ### V3 (Real-time & Intelligence - Future)
-**Target**: Q3-Q4 2025
+**Target**: PLANNED
 
 - **Real-time Meeting Processing**: Live transcription and task extraction during meetings
 - **Smart Task Prioritization**: LLM-based priority scoring for action items
@@ -27,7 +28,7 @@
 - **Mobile App Integration**: Native mobile access to processed tasks and schedules
 
 ### V4 (Advanced Automation - Vision)
-**Target**: 2026+
+**Target**: PLANNED
 
 - **Proactive Workflow Suggestions**: AI recommends process improvements based on usage patterns
 - **Team Collaboration Features**: Shared note processing and task delegation
